@@ -1,0 +1,1 @@
+{"name": "mcpabc","version": "1.0.0","description": "MCP service for time-related queries and calculations","main": "src/index.js","type": "module","scripts": {"start": "node src/index.js"},"dependencies": {"moment": "^2.29.4","moment-timezone": "^0.5.43"}}
